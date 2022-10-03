@@ -1,0 +1,9 @@
+.col {
+    border: 2px solid black;
+    padding: 1rem 0;
+}
+
+.bold {
+    font-size: 2rem;
+    font-style: bold;
+}
